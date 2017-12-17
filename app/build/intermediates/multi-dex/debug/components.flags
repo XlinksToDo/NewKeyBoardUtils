@@ -1,0 +1,60 @@
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6dd305298dd823faba68cf31f9a7323e/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4461319897f7466edf6417d5f9ba44eb/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.1.aar/9d38ff9f477ce8cce174f5b4d0469f02/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e0689edebab645044579b79116e6e9d8/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/2b49f48931b91ffaf5c3b08198c8714d/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/d3cdddcf2a22feb81418367d4275dac1/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/5c82e0ec5e670406bb742255b9567c3a/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/5c82e0ec5e670406bb742255b9567c3a/jars/libs/internal_impl-24.2.1.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ce515c46b32e7c548af9f29a04958be0/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ce515c46b32e7c548af9f29a04958be0/jars/libs/internal_impl-24.2.1.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d332a96b6335b3cd06c1f6cd1b7f1852/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d332a96b6335b3cd06c1f6cd1b7f1852/jars/libs/internal_impl-24.2.1.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/8f79e9a3517f2bcb929d63e5f5d9b2f7/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/8f79e9a3517f2bcb929d63e5f5d9b2f7/jars/libs/internal_impl-24.2.1.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/fce412636920cf1794e67018d117da3d/jars/classes.jar(**.class)
+-injars /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/fce412636920cf1794e67018d117da3d/jars/libs/internal_impl-24.2.1.jar(**.class)
+-injars /Users/oshiro_000/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar(**.class)
+-injars /Users/oshiro_000/Downloads/JOUCHUAPP/app/build/intermediates/classes/debug(**.class)
+-outjars /Users/oshiro_000/Downloads/JOUCHUAPP/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/oshiro_000/Library/Android/sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/oshiro_000/Downloads/JOUCHUAPP/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /Users/oshiro_000/Downloads/JOUCHUAPP/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

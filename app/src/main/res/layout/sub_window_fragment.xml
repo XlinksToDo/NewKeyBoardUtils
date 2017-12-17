@@ -1,0 +1,35 @@
+<?xml version="2.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <Button
+        android:id="@+id/closeMainButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="出す"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/closeSubButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="閉じる"
+        android:layout_below="@+id/openMainButton"
+        android:layout_alignRight="@+id/openMainButton"
+        android:layout_alignEnd="@+id/openMainButton" />
+
+    <Button
+        android:id="@+id/openMainButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/closeMainButton"
+        android:layout_alignRight="@+id/closeMainButton"
+        android:layout_below="@+id/closeMainButton"
+        android:text="消す" />
+
+</RelativeLayout>

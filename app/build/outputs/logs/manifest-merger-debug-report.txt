@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6dd305298dd823faba68cf31f9a7323e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4461319897f7466edf6417d5f9ba44eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.1.aar/9d38ff9f477ce8cce174f5b4d0469f02/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e0689edebab645044579b79116e6e9d8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/2b49f48931b91ffaf5c3b08198c8714d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/d3cdddcf2a22feb81418367d4275dac1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/5c82e0ec5e670406bb742255b9567c3a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ce515c46b32e7c548af9f29a04958be0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d332a96b6335b3cd06c1f6cd1b7f1852/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/8f79e9a3517f2bcb929d63e5f5d9b2f7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/fce412636920cf1794e67018d117da3d/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:5:5-7:7
+	android:name
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:6:9-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:8:5-10:11
+	android:name
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:9:9-51
+application
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:12:5-27:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6dd305298dd823faba68cf31f9a7323e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6dd305298dd823faba68cf31f9a7323e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.1.aar/9d38ff9f477ce8cce174f5b4d0469f02/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.1.aar/9d38ff9f477ce8cce174f5b4d0469f02/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e0689edebab645044579b79116e6e9d8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e0689edebab645044579b79116e6e9d8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/2b49f48931b91ffaf5c3b08198c8714d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/2b49f48931b91ffaf5c3b08198c8714d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/d3cdddcf2a22feb81418367d4275dac1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/d3cdddcf2a22feb81418367d4275dac1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/5c82e0ec5e670406bb742255b9567c3a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/5c82e0ec5e670406bb742255b9567c3a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ce515c46b32e7c548af9f29a04958be0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ce515c46b32e7c548af9f29a04958be0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d332a96b6335b3cd06c1f6cd1b7f1852/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d332a96b6335b3cd06c1f6cd1b7f1852/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/8f79e9a3517f2bcb929d63e5f5d9b2f7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/8f79e9a3517f2bcb929d63e5f5d9b2f7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/fce412636920cf1794e67018d117da3d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/fce412636920cf1794e67018d117da3d/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.oshir_000.jouchuapp.MainActivity
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:22:27-74
+service#com.example.oshir_000.jouchuapp.SubWindowService
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:25:18-50
+service#com.example.oshir_000.jouchuapp.LayerService
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:26:9-48
+	android:name
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:26:18-46
+uses-sdk
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6dd305298dd823faba68cf31f9a7323e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6dd305298dd823faba68cf31f9a7323e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.2] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4461319897f7466edf6417d5f9ba44eb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4461319897f7466edf6417d5f9ba44eb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.1.aar/9d38ff9f477ce8cce174f5b4d0469f02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.1.aar/9d38ff9f477ce8cce174f5b4d0469f02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e0689edebab645044579b79116e6e9d8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/e0689edebab645044579b79116e6e9d8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/2b49f48931b91ffaf5c3b08198c8714d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/2b49f48931b91ffaf5c3b08198c8714d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/d3cdddcf2a22feb81418367d4275dac1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/d3cdddcf2a22feb81418367d4275dac1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/5c82e0ec5e670406bb742255b9567c3a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/5c82e0ec5e670406bb742255b9567c3a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ce515c46b32e7c548af9f29a04958be0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ce515c46b32e7c548af9f29a04958be0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d332a96b6335b3cd06c1f6cd1b7f1852/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/d332a96b6335b3cd06c1f6cd1b7f1852/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/8f79e9a3517f2bcb929d63e5f5d9b2f7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/8f79e9a3517f2bcb929d63e5f5d9b2f7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/fce412636920cf1794e67018d117da3d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/fce412636920cf1794e67018d117da3d/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/6dd305298dd823faba68cf31f9a7323e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
