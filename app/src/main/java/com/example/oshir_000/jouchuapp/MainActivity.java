@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private SubWindowFlagment _subWindowFragment;
     private SubWindowService _subWindowService;
     private static int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1234; // 適当な数字でOK？
-    String url="http://google.jp";
+    String url="http://google";
 
     /*
      * メインの画面作成
@@ -91,13 +91,40 @@ public class MainActivity extends AppCompatActivity {
      * サブウィンドウを作成
      */
     public void openSubWindow() {
-        if (Build.VERSION.SDK_INT >= 23) {
+
+        if (Build.VERSION.SDK_INT >= 26) {
+            //Oreo 以上の処理
+             if (Settings.canDrawOverlays(this)) {
+                if (_subWindowFragment != null && _subWindowFragment.view != null) {
+                    closeSubWindow();
+                }
+                WindowManager.LayoutParams params = new WindowManager.LayoutParams(
+                        WindowManager.LayoutParams.WRAP_CONTENT,
+                        WindowManager.LayoutParams.WRAP_CONTENT,
+                        WindowManager.LayoutParams.TYPE_ACCESSIBILITY_OVERLAY,
+                        WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE |
+                                WindowManager.LayoutParams.FLAG_FULLSCREEN |
+                                WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH,
+                        PixelFormat.TRANSLUCENT
+                );
+                params.gravity = Gravity.TOP | Gravity.LEFT;
+
+                _windowManager = (WindowManager) this.getSystemService(Context.WINDOW_SERVICE);
+                _subWindowFragment = new SubWindowFlagment();
+                _windowManager.addView(_subWindowFragment.loadView(this), params);
+
+
+            } else {
+                // サブウィンドウ生成の権限がなかった場合は、下記で権限を取得する
+                Intent intent = new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION, Uri.parse("package:com.hoge"));
+                this.startActivityForResult(intent, ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE);
+            }
+        }else if (Build.VERSION.SDK_INT >= 23) {
             // Marshmallow 以上用の処理
             if (Settings.canDrawOverlays(this)) {
                 if (_subWindowFragment != null && _subWindowFragment.view != null) {
                     closeSubWindow();
                 }
-
                 WindowManager.LayoutParams params = new WindowManager.LayoutParams(
                         WindowManager.LayoutParams.WRAP_CONTENT,
                         WindowManager.LayoutParams.WRAP_CONTENT,
