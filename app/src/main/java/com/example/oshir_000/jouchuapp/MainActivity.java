@@ -101,13 +101,13 @@ public class MainActivity extends AppCompatActivity {
                 WindowManager.LayoutParams params = new WindowManager.LayoutParams(
                         WindowManager.LayoutParams.WRAP_CONTENT,
                         WindowManager.LayoutParams.WRAP_CONTENT,
-                        WindowManager.LayoutParams.TYPE_ACCESSIBILITY_OVERLAY,
+                        WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY,
                         WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE |
                                 WindowManager.LayoutParams.FLAG_FULLSCREEN |
                                 WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH,
                         PixelFormat.TRANSLUCENT
                 );
-                params.gravity = Gravity.TOP | Gravity.LEFT;
+                params.gravity = Gravity.TOP | Gravity.START;
 
                 _windowManager = (WindowManager) this.getSystemService(Context.WINDOW_SERVICE);
                 _subWindowFragment = new SubWindowFlagment();
