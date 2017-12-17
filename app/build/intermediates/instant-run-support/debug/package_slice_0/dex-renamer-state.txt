@@ -1,4 +1,4 @@
-#Sun Dec 17 21:32:25 JST 2017
+#Sun Dec 17 22:26:38 JST 2017
 base.0=/Users/oshiro_000/Downloads/JOUCHUAPP/app/build/intermediates/transforms/dexMerger/debug/57
 path.0=classes.dex
 renamed.0=classes.dex

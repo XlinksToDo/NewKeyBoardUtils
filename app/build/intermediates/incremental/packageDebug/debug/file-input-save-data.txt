@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Dec 17 21:31:18 JST 2017
+#Sun Dec 17 22:22:59 JST 2017
 2.base=/Users/oshiro_000/Downloads/JOUCHUAPP/app/build/intermediates/transforms/dexMerger/debug/70
 5.set=DEX
 0.path=classes.dex

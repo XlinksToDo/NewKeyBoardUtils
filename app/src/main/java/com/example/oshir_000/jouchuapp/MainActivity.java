@@ -27,11 +27,11 @@ import android.webkit.WebViewClient;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    public WebView mWebView;
+    private WebView mWebView;
     private WindowManager _windowManager;
     private SubWindowFlagment _subWindowFragment;
     private SubWindowService _subWindowService;
-    public static int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1234; // 適当な数字でOK？
+    private static int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1234; // 適当な数字でOK？
     String url="http://google.com";
 
     /*
@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
 
             } else {
                 // サブウィンドウ生成の権限がなかった場合は、下記で権限を取得する
-                Intent intent = new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION, Uri.parse("package:com.hoge"));
+                Intent intent = new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION, Uri.parse("package:com.example.oshir_000.jouchuapp"));
                 this.startActivityForResult(intent, ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE);
             }
         }else if (Build.VERSION.SDK_INT >= 23) {
@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
 
             } else {
                 // サブウィンドウ生成の権限がなかった場合は、下記で権限を取得する
-                Intent intent = new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION, Uri.parse("package:com.hoge"));
+                Intent intent = new Intent(Settings.ACTION_MANAGE_OVERLAY_PERMISSION, Uri.parse("package:com.example.oshir_000.jouchuapp"));
                 this.startActivityForResult(intent, ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE);
             }
         } else {
@@ -194,9 +194,10 @@ public class MainActivity extends AppCompatActivity {
             closeSubWindow();
         }
     }
-    public final int REQUEST_CODE_MAIN_ACTIVITY = 100;
-    public final int NOTIFICATION_CLICK = 100;
- {
+    private final int REQUEST_CODE_MAIN_ACTIVITY = 100;
+    private final int NOTIFICATION_CLICK = 100;
+
+    private void sendNotification() {
 
 
         Intent intent = new Intent(MainActivity.this, MainActivity.class);
