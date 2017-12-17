@@ -27,12 +27,12 @@ import android.webkit.WebViewClient;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    private WebView mWebView;
+    public WebView mWebView;
     private WindowManager _windowManager;
     private SubWindowFlagment _subWindowFragment;
     private SubWindowService _subWindowService;
-    private static int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1234; // 適当な数字でOK？
-    String url="http://google";
+    public static int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1234; // 適当な数字でOK？
+    String url="http://google.com";
 
     /*
      * メインの画面作成
@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
                                 WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH,
                         PixelFormat.TRANSLUCENT
                 );
-                params.gravity = Gravity.TOP | Gravity.LEFT;
+                params.gravity = Gravity.TOP | Gravity.START;
 
                 _windowManager = (WindowManager) this.getSystemService(Context.WINDOW_SERVICE);
                 _subWindowFragment = new SubWindowFlagment();
@@ -194,10 +194,9 @@ public class MainActivity extends AppCompatActivity {
             closeSubWindow();
         }
     }
-    private final int REQUEST_CODE_MAIN_ACTIVITY = 100;
-    private final int NOTIFICATION_CLICK = 100;
-
-    private void sendNotification() {
+    public final int REQUEST_CODE_MAIN_ACTIVITY = 100;
+    public final int NOTIFICATION_CLICK = 100;
+ {
 
 
         Intent intent = new Intent(MainActivity.this, MainActivity.class);
