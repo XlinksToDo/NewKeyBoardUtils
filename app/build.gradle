@@ -13,7 +13,7 @@ android {
         multiDexEnabled true
     }
     buildTypes {
-        release {
+        release {gi
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
@@ -30,3 +30,4 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
 }
+

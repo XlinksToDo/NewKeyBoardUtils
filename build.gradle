@@ -8,6 +8,12 @@ buildscript {
             name 'Google'
         }
     }
+    repositories {
+        maven {
+            url 'https://ftp.mozilla.org/pub/mobile/releases/27.0b1/android/en-US/geckoview_library/'
+            name 'firefox'
+        }
+    }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.1'
 
@@ -15,7 +21,6 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-
 allprojects {
     repositories {
         jcenter()
