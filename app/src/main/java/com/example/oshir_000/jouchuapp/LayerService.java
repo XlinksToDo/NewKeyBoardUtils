@@ -25,7 +25,7 @@
 //                WindowManager.LayoutParams.WRAP_CONTENT,
 //                WindowManager.LayoutParams.WRAP_CONTENT,
 //                WindowManager.LayoutParams.TYPE_SYSTEM_DIALOG,
-//                WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH,
+//                WindowManager.LayoutParamks.FLAG_WATCH_OUTSIDE_TOUCH,
 //                PixelFormat.TRANSLUCENT);
 //
 //        // WindowManagerを取得する
