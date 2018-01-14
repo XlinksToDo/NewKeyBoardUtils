@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="number_of_top_sites_cols">3</integer>
+    <item name="tabs_row" type="layout">@layout/tabs_item_cell</item>
+    <style name="TabsItem">
+         <item name="android:nextFocusDown">@+id/close</item>
+    </style>
+    <style name="TabsItemClose">
+         <item name="android:nextFocusUp">@+id/info</item>
+    </style>
+    <style name="TabsList" parent="TabsListBase">
+         <item name="android:orientation">horizontal</item>
+    </style>
+</resources>

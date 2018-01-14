@@ -26,13 +26,15 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
 
+import org.mozilla.gecko.GeckoView;
+
+
 public class MainActivity extends AppCompatActivity {
-    private WebView mWebView;
     private WindowManager _windowManager;
     private SubWindowFlagment _subWindowFragment;
     private SubWindowService _subWindowService;
-    private static int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1234; // 適当な数字でOK？
-    String url="http://google.com";
+
+    static int ACTION_MANAGE_OVERLAY_PERMISSION_REQUEST_CODE = 1234; // 適当な数字でOK？
 
     /*
      * メインの画面作成
@@ -41,23 +43,26 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mWebView = (WebView)findViewById(R.id.webview);
-        mWebView.setKeepScreenOn(true);
-        WebSettings settings = mWebView.getSettings();
-        settings.setPluginState(WebSettings.PluginState.ON);
-        mWebView.getSettings().setJavaScriptEnabled(true);
-        mWebView.getSettings().setDomStorageEnabled(true);
-        mWebView.getSettings().setBuiltInZoomControls(true);
-        mWebView.setInitialScale(100);
-        mWebView.getSettings().setUseWideViewPort(true);
-        mWebView.setScrollBarStyle(View.SCROLLBARS_OUTSIDE_OVERLAY);
-        mWebView.setWebViewClient(new MyWebViewClient());
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.ICE_CREAM_SANDWICH) {
-            mWebView.getSettings().setPluginState(WebSettings.PluginState.ON);
-        } else {
-            mWebView.getSettings().setPluginState(WebSettings.PluginState.ON);
-        }
-        mWebView.loadUrl(url);
+
+
+
+//        mWebView = (WebView)findViewById(R.id.webview);
+//        mWebView.setKeepScreenOn(true);
+//        WebSettings settings = mWebView.getSettings();
+//        settings.setPluginState(WebSettings.PluginState.ON);
+//        mWebView.getSettings().setJavaScriptEnabled(true);
+//        mWebView.getSettings().setDomStorageEnabled(true);
+//        mWebView.getSettings().setBuiltInZoomControls(true);
+//        mWebView.setInitialScale(100);
+//        mWebView.getSettings().setUseWideViewPort(true);
+//        mWebView.setScrollBarStyle(View.SCROLLBARS_OUTSIDE_OVERLAY);
+//        mWebView.setWebViewClient(new MyWebViewClient());
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
+//            mWebView.getSettings().setPluginState(WebSettings.PluginState.ON);
+//        } else {
+//            mWebView.getSettings().setPluginState(WebSettings.PluginState.ON);
+//        }
+//        mWebView.loadUrl(url);
 
         Button windowButton = (Button)this.findViewById(R.id.openWindowButton);
         windowButton.setOnClickListener(new View.OnClickListener() {
@@ -194,10 +199,11 @@ public class MainActivity extends AppCompatActivity {
             closeSubWindow();
         }
     }
-    private final int REQUEST_CODE_MAIN_ACTIVITY = 100;
-    private final int NOTIFICATION_CLICK = 100;
+    final int REQUEST_CODE_MAIN_ACTIVITY = 100;
+    final int NOTIFICATION_CLICK = 100;
 
     private void sendNotification() {
+
 
 
         Intent intent = new Intent(MainActivity.this, MainActivity.class);

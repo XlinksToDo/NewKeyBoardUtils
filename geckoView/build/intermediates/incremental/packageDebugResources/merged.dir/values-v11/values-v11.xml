@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialogtitle_textcolor">@android:color/holo_blue_light</color>
+    <dimen name="doorhanger_spinner_textsize">6sp</dimen>
+    <dimen name="tabs_counter_size">22sp</dimen>
+    <style name="ActionBar" parent="android:style/Widget.Holo.ActionBar"/>
+    <style name="ActionBar.GeckoPreferences">
+         <item name="android:displayOptions">showHome|homeAsUp|showTitle</item>
+    </style>
+    <style name="ActionBar.TabsTray">
+         <item name="android:visibility">gone</item>
+    </style>
+    <style name="DropDownListView" parent="@android:style/Widget.Holo.ListView.DropDown">
+         <item name="android:listSelector">@drawable/action_bar_button</item>
+         <item name="android:divider">#FFD1D5DA</item>
+         <item name="android:dividerHeight">1dp</item>
+    </style>
+    <style name="Gecko.App">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:panelBackground">@drawable/menu_panel_bg</item>
+        <item name="android:listViewStyle">@style/Widget.ListView</item>
+        <item name="android:gridViewStyle">@style/Widget.GridView</item>
+        <item name="android:spinnerStyle">@style/Widget.Spinner</item>
+        <item name="android:spinnerItemStyle">@style/Widget.TextView.SpinnerItem</item>
+        <item name="android:spinnerDropDownItemStyle">@style/Widget.DropDownItem.Spinner</item>
+        <item name="menuItemActionBarStyle">@style/Widget.MenuItemActionBar</item>
+        <item name="menuItemActionViewStyle">@style/Widget.MenuItemActionView</item>
+        <item name="menuItemDefaultStyle">@style/Widget.MenuItemDefault</item>
+        <item name="bookmarksListViewStyle">@style/Widget.BookmarksListView</item>
+        <item name="topSitesGridItemViewStyle">@style/Widget.TopSitesGridItemView</item>
+        <item name="topSitesGridViewStyle">@style/Widget.TopSitesGridView</item>
+        <item name="topSitesThumbnailViewStyle">@style/Widget.TopSitesThumbnailView</item>
+        <item name="homeListViewStyle">@style/Widget.HomeListView</item>
+    </style>
+    <style name="GeckoBase" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="arrowPopupWidth">fill_parent</item>
+    </style>
+    <style name="GeckoDialogBase" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="GeckoPreferencesBase" parent="GeckoBase">
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:actionBarStyle">@style/ActionBar.GeckoPreferences</item>
+    </style>
+    <style name="SyncBottom" parent="@android:style/Holo.Light.ButtonBar">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+    <style name="SyncButton" parent="@android:style/Widget.Holo.Light.Button.Small">
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:layout_weight">1</item>
+    <item name="android:background">?android:attr/selectableItemBackground</item>
+  </style>
+    <style name="SyncTop" parent="@android:style/Widget.Holo.ActionBar">
+    <item name="android:textAppearance">@android:style/TextAppearance.Holo.Widget.ActionBar.Title</item>
+    <item name="android:layout_width">fill_parent</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:gravity">center_vertical|left</item>
+    <item name="android:drawableLeft">@drawable/icon</item>
+    <item name="android:padding">4dp</item>
+    <item name="android:drawablePadding">4dp</item>
+  </style>
+    <style name="Widget.BaseButton" parent="android:style/Widget.Holo.Light.Button"/>
+    <style name="Widget.BaseDropDownItem" parent="android:style/Widget.Holo.Light.DropDownItem"/>
+    <style name="Widget.BaseEditText" parent="android:style/Widget.Holo.Light.EditText"/>
+    <style name="Widget.BaseGridView" parent="android:style/Widget.Holo.GridView"/>
+    <style name="Widget.BaseListView" parent="android:style/Widget.Holo.ListView"/>
+    <style name="Widget.BaseTextView" parent="android:style/Widget.Holo.Light.TextView"/>
+    <style name="Widget.DropDownItem.Spinner" parent="@android:style/Widget.Holo.Light.DropDownItem.Spinner">
+         <item name="android:textColor">#FF000000</item>
+    </style>
+    <style name="Widget.ListItem">
+        <item name="android:textColor">@color/select_item_multichoice</item>
+        <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">7dip</item>
+        <item name="android:checkMark">?android:attr/listChoiceIndicatorMultiple</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Widget.Spinner" parent="android:style/Widget.Holo.Light.Spinner">
+        <item name="android:minWidth">@dimen/doorhanger_input_width</item>
+    </style>
+    <style name="Widget.TextView.SpinnerItem" parent="android:style/Widget.Holo.Light.TextView.SpinnerItem">
+        <item name="android:textColor">#FF000000</item>
+    </style>
+</resources>

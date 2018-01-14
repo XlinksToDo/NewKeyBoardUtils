@@ -1,0 +1,27 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 26
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/gecko-browser.jar')
+    compile files('libs/gecko-mozglue.jar')
+    compile files('libs/gecko-util.jar')
+    compile files('libs/sync-thirdparty.jar')
+    compile files('libs/webrtc.jar')
+    compile files('libs/websockets.jar')
+}

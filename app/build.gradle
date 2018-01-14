@@ -5,7 +5,7 @@ android {
     buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.example.oshir_000.jouchuapp"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -25,6 +25,15 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+    compile fileTree(dir: 'libs', include: ['gecko-browsesr.jar'])
+    compile fileTree(dir: 'libs', include: ['constants.jar'])
+    compile fileTree(dir: 'libs', include: ['search-activity.jar'])
+    compile fileTree(dir: 'libs', include: ['services.jar'])
+    compile fileTree(dir: 'libs', include: ['gecko-mozglue.jar'])
+    compile fileTree(dir: 'libs', include: ['gecko-util.jar'])
+    compile fileTree(dir: 'libs', include: ['sync-thirdparty.jar'])
+    compile fileTree(dir: 'libs', include: ['web.jar'])
+    compile fileTree(dir: 'libs', include: ['gecko-thirdparty.jar'])
     compile 'com.android.support:appcompat-v7:26.1.0'
     compile 'com.android.support:multidex:1.0.2'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
