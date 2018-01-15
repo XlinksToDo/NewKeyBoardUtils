@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/drawable-large-mdpi-v11/arrow_popup_bg.9.png",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/drawable-large-mdpi-v11/arrow_popup_bg.9.png"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/drawable-large-mdpi-v11/menu.png",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/drawable-large-mdpi-v11/menu.png"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/drawable-large-mdpi-v11/ic_menu_reload.png",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/drawable-large-mdpi-v11/ic_menu_reload.png"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/drawable-large-mdpi-v11/ic_menu_forward.png",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/drawable-large-mdpi-v11/ic_menu_forward.png"
+    }
+]

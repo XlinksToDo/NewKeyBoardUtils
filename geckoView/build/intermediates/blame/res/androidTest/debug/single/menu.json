@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/menu/home_contextmenu.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/menu/home_contextmenu.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/menu/top_sites_contextmenu.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/menu/top_sites_contextmenu.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/menu/gecko_app_menu.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/menu/gecko_app_menu.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/menu/titlebar_contextmenu.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/menu/titlebar_contextmenu.xml"
+    }
+]

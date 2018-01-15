@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/drawable-xlarge-xhdpi-v11/ic_menu_bookmark_remove.png",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/drawable-xlarge-xhdpi-v11/ic_menu_bookmark_remove.png"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/drawable-xlarge-xhdpi-v11/ic_menu_bookmark_add.png",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/drawable-xlarge-xhdpi-v11/ic_menu_bookmark_add.png"
+    }
+]

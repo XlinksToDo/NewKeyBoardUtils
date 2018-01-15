@@ -11,7 +11,6 @@ import android.widget.Button;
 public class SubWindowFlagment extends Fragment {
     public View view;
     private MainActivity _activity;
-
     /*
      * 画面呼び出し
      */

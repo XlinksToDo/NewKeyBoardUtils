@@ -29,8 +29,7 @@
         </activity>
 
         <service android:name="com.example.oshir_000.jouchuapp.SubWindowService" />
-        <service android:name="com.example.oshir_000.jouchuapp.LayerService" />
-
+        <!-- <service android:name=".LayerService" /> -->
         <activity android:name="com.example.oshir_000.jouchuapp.SubActivity" >
         </activity>
 

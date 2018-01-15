@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/xml-v11/preference_headers.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/xml-v11/preference_headers.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/xml-v11/preferences_customize.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/xml-v11/preferences_customize.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/xml-v11/preferences_customize_tablet.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/xml-v11/preferences_customize_tablet.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/xml-v11/preferences.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/xml-v11/preferences.xml"
+    }
+]

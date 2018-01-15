@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/icon_grid.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/icon_grid.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_send_tab.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_send_tab.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/site_identity.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/site_identity.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/preference_search_tip.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/preference_search_tip.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/tabs_panel.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/tabs_panel.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/remote_tabs_group.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/remote_tabs_group.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_top_sites_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_top_sites_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/icon_grid_item.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/icon_grid_item.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/preference_search_engine.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/preference_search_engine.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/tabs_panel_header.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/tabs_panel_header.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_empty_reading_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_empty_reading_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/browser_toolbar.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/browser_toolbar.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/doorhanger_button.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/doorhanger_button.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/font_size_preference.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/font_size_preference.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/arrow_popup.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/arrow_popup.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/web_app.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/web_app.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_setup_success.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_setup_success.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/tab_menu_strip.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/tab_menu_strip.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/site_setting_item.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/site_setting_item.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_list.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/select_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_account.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_account.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/list_item_header.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/list_item_header.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_empty_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_empty_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/suggestion_item.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/suggestion_item.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_banner.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_banner.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_suggestion_prompt.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_suggestion_prompt.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/simple_dropdown_item_1line.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/simple_dropdown_item_1line.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_last_tabs_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_last_tabs_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/launch_app_listitem.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/launch_app_listitem.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_setup.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_setup.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/validation_message.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/validation_message.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/autocomplete_list.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/autocomplete_list.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/top_sites_grid_item_view.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/top_sites_grid_item_view.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/menu_action_bar.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/menu_action_bar.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/search_engine_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/search_engine_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/find_in_page_content.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/find_in_page_content.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_item_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_item_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/crash_reporter.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/crash_reporter.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/remote_tabs_child.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/remote_tabs_child.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_bookmarks_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_bookmarks_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/notification_progress.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/notification_progress.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_setup_pair.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_setup_pair.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_redirect_to_setup.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_redirect_to_setup.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/tabs_item_cell.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/tabs_item_cell.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/tabs_item_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/tabs_item_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/site_setting_title.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/site_setting_title.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_reading_list_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_reading_list_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_list_item.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_list_item.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_pager.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_pager.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_history_list.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_history_list.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/notification_progress_text.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/notification_progress_text.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_setup_jpake_waiting.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_setup_jpake_waiting.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/bookmark_edit.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/bookmark_edit.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/notification_icon_text.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/notification_icon_text.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/menu_item_action_view.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/menu_item_action_view.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/videoplayer.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/videoplayer.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/bookmark_item_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/bookmark_item_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/text_selection_handles.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/text_selection_handles.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/autocomplete_list_item.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/autocomplete_list_item.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_setup_webview.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_setup_webview.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/pin_site_dialog.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/pin_site_dialog.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/preference_rightalign_icon.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/preference_rightalign_icon.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_history_tabs_indicator.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_history_tabs_indicator.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/browser_search.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/browser_search.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/gecko_app.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/gecko_app.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/doorhanger.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/doorhanger.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/shared_ui_components.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/shared_ui_components.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_header_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_header_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_multichoice.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/menu_popup.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/menu_popup.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/bookmark_folder_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/bookmark_folder_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_history_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_history_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/two_line_page_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/two_line_page_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_setup_failure.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_setup_failure.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_most_recent_page.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_most_recent_page.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/sync_setup_nointernet.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/sync_setup_nointernet.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/datetime_picker.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/datetime_picker.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/tabs_counter.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/tabs_counter.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/tabs_panel_indicator.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/tabs_panel_indicator.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/home_search_item_row.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/home_search_item_row.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_singlechoice.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/layout/launch_app_list.xml",
+        "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/layout/launch_app_list.xml"
+    }
+]

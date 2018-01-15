@@ -71,6 +71,13 @@ public class MainActivity extends AppCompatActivity {
                 openSubWindow();
             }
         });
+        Button sendButton = findViewById(R.id.send_button);
+        sendButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, SubActivity.class);
+                startActivity(intent);
+            }});
     }
     private class MyWebViewClient extends WebViewClient {
         @Override
@@ -199,27 +206,27 @@ public class MainActivity extends AppCompatActivity {
             closeSubWindow();
         }
     }
-    final int REQUEST_CODE_MAIN_ACTIVITY = 100;
-    final int NOTIFICATION_CLICK = 100;
+//    final int REQUEST_CODE_MAIN_ACTIVITY = 100;
+//    final int NOTIFICATION_CLICK = 100;
 
-    private void sendNotification() {
-
-
-
-        Intent intent = new Intent(MainActivity.this, MainActivity.class);
-        NotificationCompat.Builder builder = new NotificationCompat.Builder(
-            getApplicationContext());
-        PendingIntent contentIntent = PendingIntent.getActivity(
-                MainActivity.this, REQUEST_CODE_MAIN_ACTIVITY, intent, PendingIntent.FLAG_UPDATE_CURRENT);
-        builder.addAction(R.drawable.ic_small, "アクション1", contentIntent);
-        builder.addAction(R.drawable.ic_small, "アクション2", contentIntent);
-        builder.addAction(R.drawable.ic_small, "アクション3", contentIntent);
-
-        // NotificationManagerを取得
-        NotificationManager manager = (NotificationManager) getSystemService(Service.NOTIFICATION_SERVICE);
-        // Notificationを作成して通知
-        manager.notify(NOTIFICATION_CLICK, builder.build());
-    }
-
+//    private void sendNotification() {
+//
+//
+//
+//        Intent intent = new Intent(MainActivity.this, MainActivity.class);
+//        NotificationCompat.Builder builder = new NotificationCompat.Builder(
+//            getApplicationContext());
+//        PendingIntent contentIntent = PendingIntent.getActivity(
+//                MainActivity.this, REQUEST_CODE_MAIN_ACTIVITY, intent, PendingIntent.FLAG_UPDATE_CURRENT);
+//        builder.addAction(R.drawable.ic_small, "アクション1", contentIntent);
+//        builder.addAction(R.drawable.ic_small, "アクション2", contentIntent);
+//        builder.addAction(R.drawable.ic_small, "アクション3", contentIntent);
+//
+//        // NotificationManagerを取得
+//        NotificationManager manager = (NotificationManager) getSystemService(Service.NOTIFICATION_SERVICE);
+//        // Notificationを作成して通知
+//        manager.notify(NOTIFICATION_CLICK, builder.build());
+//    }
+//
 
 }

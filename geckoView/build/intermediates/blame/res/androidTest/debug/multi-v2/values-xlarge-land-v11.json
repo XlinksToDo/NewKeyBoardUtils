@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-xlarge-land-v11/values-xlarge-land-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/values-xlarge-land-v11/values-xlarge-land-v11.xml",
+                    "from": {
+                        "startLines": "2,3,10,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,442,734",
+                        "endLines": "2,9,15,22",
+                        "endColumns": "56,12,12,12",
+                        "endOffsets": "107,437,729,1088"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/values-xlarge-land-v11/values-xlarge-land-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/values-xlarge-land-v11/values-xlarge-land-v11.xml",
+                    "from": {
+                        "startLines": "2,3,10,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,112,442,734",
+                        "endLines": "2,9,15,22",
+                        "endColumns": "56,12,12,12",
+                        "endOffsets": "107,437,729,1088"
+                    }
+                }
+            ]
+        }
+    ]
+}

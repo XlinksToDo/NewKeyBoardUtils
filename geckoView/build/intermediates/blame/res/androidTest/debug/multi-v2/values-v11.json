@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,9,12,17,34,40,45,50,54,60,69,70,71,72,73,74,75,78,88,91",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,134,192,241,316,455,559,850,2107,2422,2694,2964,3166,3508,4030,4116,4214,4304,4388,4472,4562,4742,5346,5517",
+                        "endLines": "2,3,4,5,8,11,16,33,39,44,49,53,59,68,69,70,71,72,73,74,77,87,90,93",
+                        "endColumns": "78,57,48,74,12,12,12,12,12,12,12,10,10,10,85,97,89,83,83,89,12,12,12,12",
+                        "endOffsets": "129,187,236,311,450,554,845,2102,2417,2689,2959,3161,3503,4025,4111,4209,4299,4383,4467,4557,4737,5341,5512,5690"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,9,12,17,34,40,45,50,54,60,69,70,71,72,73,74,75,78,88,91",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,134,192,241,316,455,559,850,2107,2422,2694,2964,3166,3508,4030,4116,4214,4304,4388,4472,4562,4742,5346,5517",
+                        "endLines": "2,3,4,5,8,11,16,33,39,44,49,53,59,68,69,70,71,72,73,74,77,87,90,93",
+                        "endColumns": "78,57,48,74,12,12,12,12,12,12,12,10,10,10,85,97,89,83,83,89,12,12,12,12",
+                        "endOffsets": "129,187,236,311,450,554,845,2102,2417,2689,2959,3161,3503,4025,4111,4209,4299,4383,4467,4557,4737,5341,5512,5690"
+                    }
+                }
+            ]
+        }
+    ]
+}

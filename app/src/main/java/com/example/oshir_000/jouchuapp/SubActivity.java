@@ -24,7 +24,6 @@ public class SubActivity extends Activity {
 
     GeckoView mGeckoView;
     TextView mPageTitle;
-    String string;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

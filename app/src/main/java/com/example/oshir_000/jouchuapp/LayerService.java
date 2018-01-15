@@ -25,14 +25,14 @@
 //                WindowManager.LayoutParams.WRAP_CONTENT,
 //                WindowManager.LayoutParams.WRAP_CONTENT,
 //                WindowManager.LayoutParams.TYPE_SYSTEM_DIALOG,
-//                WindowManager.LayoutParamks.FLAG_WATCH_OUTSIDE_TOUCH,
+//                WindowManager.LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH,
 //                PixelFormat.TRANSLUCENT);
 //
 //        // WindowManagerを取得する
 //        wm = (WindowManager) getSystemService(Context.WINDOW_SERVICE);
 //
 //        // レイアウトファイルから重ね合わせするViewを作成する
-//        view = layoutInflater.inflate(R.layout.sub_window_fragment, null);
+//        view = layoutInflater.inflate(R.layout.activity_sub, null);
 //
 //        // Viewを画面上に重ね合わせする
 //        wm.addView(view, params);

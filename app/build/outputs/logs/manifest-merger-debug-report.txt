@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/faef8ad4b4711cf9569fc9d31b071325/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:multidex:1.0.2] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/4461319897f7466edf6417d5f9ba44eb/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6e9bd3a8e4b9183f178545ccdb195de2/AndroidManifest.xml:2:1-11:12
@@ -16,20 +16,20 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /Users/oshiro_000/.g
 MERGED from [com.android.support:support-core-ui:26.1.0] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1494b260cf88cc0e067b2c3f5fe3c238/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/ebc3b0154e1cae283c07d72f57fcda15/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/aeb5a3e882ec2ef2e7887bf82e8d93e0/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:3:5-46
 		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
-		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
-		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-31:12
+		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:1-32:12
 		INJECTED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:2:11-69
@@ -42,7 +42,7 @@ ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xm
 	android:name
 		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:9:9-51
 application
-ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:12:5-29:19
+ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:12:5-30:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/faef8ad4b4711cf9569fc9d31b071325/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/faef8ad4b4711cf9569fc9d31b071325/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/oshiro_000/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6e9bd3a8e4b9183f178545ccdb195de2/AndroidManifest.xml:9:5-20
@@ -93,10 +93,6 @@ service#com.example.oshir_000.jouchuapp.SubWindowService
 ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:25:9-52
 	android:name
 		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:25:18-50
-service#com.example.oshir_000.jouchuapp.LayerService
-ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:26:9-48
-	android:name
-		ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:26:18-46
 activity#com.example.oshir_000.jouchuapp.SubActivity
 ADDED from /Users/oshiro_000/Downloads/JOUCHUAPP/app/src/main/AndroidManifest.xml:27:9-28:20
 	android:name

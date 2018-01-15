@@ -23,8 +23,10 @@
             </intent-filter>
         </activity>
         <service android:name=".SubWindowService"/>
+        <!--<service android:name=".LayerService" />-->
         <activity android:name=".SubActivity">
         </activity>
+
     </application>
 
 </manifest>

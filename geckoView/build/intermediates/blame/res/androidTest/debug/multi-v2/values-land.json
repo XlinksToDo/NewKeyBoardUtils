@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/res/merged/androidTest/debug/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,7,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,182,285,390",
+                        "endLines": "2,3,6,9,12",
+                        "endColumns": "56,69,12,12,12",
+                        "endOffsets": "107,177,280,385,508"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/oshiro_000/Downloads/JOUCHUAPP/geckoView/build/intermediates/bundles/debug/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,7,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,112,182,285,390",
+                        "endLines": "2,3,6,9,12",
+                        "endColumns": "56,69,12,12,12",
+                        "endOffsets": "107,177,280,385,508"
+                    }
+                }
+            ]
+        }
+    ]
+}
